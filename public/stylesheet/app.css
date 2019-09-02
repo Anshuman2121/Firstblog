@@ -1,0 +1,20 @@
+i.icon {
+    font-size: 2em;
+}
+
+.ui.text.container {
+    margin-top: 7em;
+}
+
+#one {
+    margin-top: 7em;
+}
+
+#delete{
+    display: inline;
+}
+
+#desc{
+    margin-top: 3em;
+    margin-bottom: 3em
+}
